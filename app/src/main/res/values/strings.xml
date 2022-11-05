@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency tracking</string>
+    <string name="title_home">Popular</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="addToFavorite">Add To Favorite</string>
+    <string name="select_currency">select currency</string>
+    <string name="change_base">change base</string>
+
+    <string name="sorting">Sorting</string>
+    <string name="sorting_alphabetically">alphabetically</string>
+    <string name="sorting_by_value">by value</string>
+    <string name="sorting_ascending">Ascending</string>
+    <string name="sorting_descending">Descending</string>
+</resources>
